@@ -1,4 +1,4 @@
-# **Dow Jones Stock Sentiment Analysis**
+# **Dow Jones Stock Sentiment Analysis using NLP**
 
 ### Problem Statement:
 Investors struggle to predict stock market trends due to the vast amount of news data. Develop a model to analyze news headlines and determine their sentiment, providing insights into how news impacts Dow Jones stock prices and aiding in more informed investment decisions.
